@@ -501,7 +501,7 @@ function subscribe_sendinblue()
 		CURLOPT_POSTFIELDS => "{\"email\":\"$email\",\"attributes\":{\"FIRSTNAME\":\"$name\"},\"listIds\":[25],\"updateEnabled\":true}",
 		CURLOPT_HTTPHEADER => array(
 			"accept: application/json",
-			"api-key: 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",
+			"api-key: APIKEY",
 			"content-type: application/json"
 		),
 	));
