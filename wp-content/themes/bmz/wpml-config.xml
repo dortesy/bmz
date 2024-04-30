@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">
+            <name>prices</name>
+            <value>22</value>
+            <value>38</value>
+            <value>69</value>
+            <value>79</value>
+        </custom-field>
+    </custom-fields>
+</wpml-config>
